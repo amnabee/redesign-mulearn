@@ -2,7 +2,6 @@
 
 A creative redesign concept for the [μLearn](https://app.mulearn.org/) platform, made as a mulearn association web design task. μLearn is a community-driven learning platform where students learn, build and grow together. This redesign gives it a bolder, friendlier look and puts **karma** at the centre of the experience.
 
-**Live demo:** _add your GitHub Pages link here_
 
 ## Why redesign it?
 
